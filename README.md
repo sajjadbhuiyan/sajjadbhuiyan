@@ -1,2 +1,4 @@
-<figure><embed src="https://wakatime.com/share/@sajjadbhuiyan/b381730a-5ded-4cff-a6eb-6acf10521fc7.svg" height="400"></embed></figure>
+<p align="center">
+  <img src="https://wakatime.com/share/@sajjadbhuiyan/3a9da3e1-1ebd-4fb5-8b19-826b7a2c800e.svg" height="400"/>
+</p>
 
